@@ -14,11 +14,13 @@ In all of the used cars in this dataset, Harley-Davidson cars have the highest a
 Toyota has the most cars in this dataset with more than 1200 cars and Ford is the second highest. 
 
 3.Target column: price 
+
 <img width="491" alt="Screen Shot 2022-04-27 at 11 28 02 PM" src="https://user-images.githubusercontent.com/57150270/165676603-a2d30bad-565b-40ad-8324-afe5e46c62bb.png">
 
 High mileage decreases the value of cars and mileage is an important factor to determine car prices. 
 
 4. Target column: price
+
 <img width="579" alt="Screen Shot 2022-04-27 at 11 28 38 PM" src="https://user-images.githubusercontent.com/57150270/165676665-7153388a-1e9e-4f63-a7c1-a21cc0f51bf9.png">
 
 Clean vehicle cars have higher value compared to salvage insurance cars. This dataset has more clean vehicle cars than salvage insurance cars. 
