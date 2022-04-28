@@ -1,13 +1,4 @@
-https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
-from google.colab import files
-files.upload()
-
-import pandas as pd
-import seaborn as sns
-import numpy as np
-import matplotlib.pyplot as plt
- 
-df = pd.read_csv('USA_cars_datasets.csv')
+Dataset: https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
 
 1.Target column: price
 
